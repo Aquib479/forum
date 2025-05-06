@@ -34,8 +34,26 @@ Whether you're a developer, student, or enthusiast — this platform gives you t
 
 ---
 
-## 🧑‍💻 Getting Started
+## 🔧 Tech Stack
 
+### 🖥️ Frontend
+- **Framework**: Next.js
+- **Styling**: Tailwind CSS
+- **UI Components**: ShadCN
+- **Language**: TypeScript
+
+### 🛠️ Backend
+- **Runtime**: Node.js
+- **Framework**: Express.js
+- **Authentication**: JWT (JSON Web Tokens)
+- **ORM**: Prisma
+- **Database**: PostgreSQL
+- 
+### Prerequisites
+- Node.js >= 16.x
+- PostgreSQL database setup
+
+## 🧑‍💻 Getting Started
 Want to try it out on your local machine?
 
 1. **Clone the Project**
